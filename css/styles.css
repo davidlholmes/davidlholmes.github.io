@@ -89,6 +89,7 @@ header .profile-image:hover {
   background-color: #222;
   color: yellow;
 }
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
@@ -207,5 +208,17 @@ a.social:hover {
     margin: 40px auto;
   }
 
+}
+
+h3 {
+  color: maroon;
+  letter-spacing: .5px;
+}
+
+.card-title {
+  text-align: center;
+  border: solid black 3px;
+  border-radius: 10px;
+  margin_top: 50px;
 }
 
